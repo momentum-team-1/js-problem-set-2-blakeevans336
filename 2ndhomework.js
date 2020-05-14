@@ -99,4 +99,3 @@ function selectionSort (array) {
 //
 // For example, `textList(['Cadence', 'Ordel', 'Marion'])` results in the string
 // `"Cadence,Ordel,Marion"`.
-// comment
